@@ -20,18 +20,18 @@
   "dependencies": {
     "@theowenyoung/gatsby-source-git": "^2.2.2",
     "date-cli": "^1.1.0",
-    "gatsby": "^3.0.0",
-    "gatsby-plugin-google-gtag": "^3.7.1",
-    "gatsby-plugin-manifest": "^3.7.1",
-    "gatsby-theme-buzzing": "^1.13.0",
-    "i18next": "^19.4.5",
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-google-gtag": "^4.4.0",
+    "gatsby-plugin-manifest": "^4.4.0",
+    "gatsby-theme-buzzing": "^1.14.0",
+    "i18next": "^21.6.4",
     "ncp": "^2.0.0",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-i18next": "^11.11.0",
-    "trash-cli": "^4.0.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.15.2",
+    "trash-cli": "^5.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.5.1"
   }
 }
