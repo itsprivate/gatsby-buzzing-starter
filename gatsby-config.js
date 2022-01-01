@@ -33,7 +33,7 @@ if (isDev) {
       fetchOptions: ["--depth", 1],
       // Only import the docs folder from a codebase.
       patterns: [
-        "data/reddit-100/**",
+        "data/reddit-stocks/**",
         // "data/tweet-stocks/**",
         // "data/stocks-issues/**",
         "data/*-placeholder/1.json",
