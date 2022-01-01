@@ -20,7 +20,7 @@ if (isDev) {
       branch: `main`,
       fetchOptions: ["--depth", 1],
       // Only import the docs folder from a codebase.
-      patterns: ["data/*-placeholder/1.json", "data/redirect-devtop/**"],
+      patterns: ["data/*-placeholder/1.json", "data/reddit-top/**"],
     },
   });
 } else {
@@ -33,9 +33,9 @@ if (isDev) {
       fetchOptions: ["--depth", 1],
       // Only import the docs folder from a codebase.
       patterns: [
-        "data/reddit-stocks/**",
-        "data/tweet-stocks/**",
-        "data/stocks-issues/**",
+        "data/reddit-100/**",
+        // "data/tweet-stocks/**",
+        // "data/stocks-issues/**",
         "data/*-placeholder/1.json",
       ],
     },
